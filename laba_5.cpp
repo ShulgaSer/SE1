@@ -9,4 +9,7 @@ int main()
 	cout << "B = ";
 	cin >> b;
 
+	cout << "A + B = " << a + b << endl;
+
+	return 0;
 }
